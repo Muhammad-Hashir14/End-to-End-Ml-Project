@@ -1,0 +1,7 @@
+1- Create github
+2- create local project dir
+3- connect them
+4- create virtualenv
+5- create requirements.txt
+6- create step.py
+7= create src/__init__.py
