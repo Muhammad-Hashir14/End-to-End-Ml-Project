@@ -5,3 +5,15 @@
 5- create requirements.txt
 6- create step.py
 7= create src/__init__.py
+8- create compnents folder
+9- create pipline folder
+10- create compnents/__init__.py
+11- create compnents/data_ingestion.py
+12- create compnents/data_transform.py
+13- create compnents/model_trainer.py
+14- create pipline/train_pipe.py
+15- create pipline/predict_pipe.py
+16- create exception.py
+17- create logger.py
+18- create utils.py
+19- write function error_message_detail and class custom exception in exception.py file
